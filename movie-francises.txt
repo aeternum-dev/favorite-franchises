@@ -1,0 +1,7 @@
+-create typescript react app with create-vite
+
+-my favorite movie franchises
+-Single Page Application
+-Planet of the Apes
+-Lord of the rings
+-Star Wars stb.
